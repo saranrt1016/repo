@@ -99,5 +99,6 @@
     </Adresa>
     <Telefon tip="fiksni">011/486-260</Telefon>
     <Email tip="sluzbeni">kompanijski3@mail.com</Email>
+    <Email tip="sluzbeni">novimail@mail.com</Email>
   </Kompanija>
 </Adresar>
