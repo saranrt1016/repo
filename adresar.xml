@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Adresar SYSTEM "adresar.dtd">
+<Adresar>
+	<Osoba sifra="001">
+		<PunoIme>
+			<Ime>Pera</Ime>
+			<SrednjeIme>Stefan</SrednjeIme>
+			<Prezime>Peric</Prezime>
+		</PunoIme>
+		<DatumRodjenja>
+			<Dan>02</Dan>
+			<Mesec>08</Mesec>
+			<Godina>1984</Godina>
+		</DatumRodjenja>
+		<Adresa tip="stalna">
+			<Ulica>Takovska</Ulica>
+			<Broj>3</Broj>
+			<Grad>Beograd</Grad>
+			<Drzava>Srbija</Drzava>
+		</Adresa>
+		<Telefon tip="mobilni">064/852-463</Telefon>
+		<Email tip="privatni">pera@mail.com</Email>
+    <Email tip="sluzbeni">pp@mail.com</Email>
+    <Email tip="sluzbeni">pp2@mail.com</Email>
+	</Osoba>
+  <Osoba sifra="002">
+    <PunoIme>
+      <Ime>Marko</Ime>
+      <SrednjeIme>T</SrednjeIme>
+      <Prezime>Markovic</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>12</Dan>
+      <Mesec>04</Mesec>
+      <Godina>1992</Godina>
+    </DatumRodjenja>
+    <Adresa tip="stalna">
+      <Ulica>Kumodraska</Ulica>
+      <Broj>64</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon tip="mobilni">062/675-111</Telefon>
+    <Email tip="privatni">mmarkovic@mail.com</Email>
+  </Osoba>
+  <Osoba sifra="003">
+    <PunoIme>
+      <Ime>Ivan</Ime>
+      <SrednjeIme></SrednjeIme>
+      <Prezime>Marinkovic</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>26</Dan>
+      <Mesec>09</Mesec>
+      <Godina>2007</Godina>
+    </DatumRodjenja>
+    <Adresa tip="stalna">
+      <Ulica>Dalmatinska</Ulica>
+      <Broj>12</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon tip="mobilni">063/333-827</Telefon>
+    <Email tip="privatni">ivanm@mail.com</Email>
+  </Osoba>
+	<Kompanija sifra="aaa">
+		<Naziv>Kompanija</Naziv>
+		<Adresa tip="stalna">
+			<Ulica>Vojvode Stepe</Ulica>
+			<Broj>34</Broj>
+			<Grad>Beograd</Grad>
+			<Drzava>Srbija</Drzava>
+		</Adresa>
+		<Telefon tip="fiksni">011/549-659</Telefon>
+		<Email tip="sluzbeni">kompanija_1@mail.com</Email>
+    <Email tip="sluzbeni">kompanija_2@mail.com</Email>
+    <Email tip="sluzbeni">kompanija_3@mail.com</Email>
+	</Kompanija>
+  <Kompanija sifra="bbb">
+    <Naziv>Kom2</Naziv>
+    <Adresa tip="privremena">
+      <Ulica>Cara Dusana</Ulica>
+      <Broj>3</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon tip="fiksni">011/549-659</Telefon>
+    <Email tip="sluzbeni">kom_1@mail.com</Email>
+    <Email tip="sluzbeni">kom_2@mail.com</Email>
+    <Email tip="sluzbeni">kom_3@mail.com</Email>
+  </Kompanija>
+  <Kompanija sifra="ccc">
+    <Naziv>Kompanija3</Naziv>
+    <Adresa tip="privremena">
+      <Ulica>Krunska</Ulica>
+      <Broj>9</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon tip="fiksni">011/486-260</Telefon>
+    <Email tip="sluzbeni">kompanijski3@mail.com</Email>
+  </Kompanija>
+</Adresar>
